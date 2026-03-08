@@ -1,0 +1,1 @@
+quadrati = [n * n for n in numeri]
